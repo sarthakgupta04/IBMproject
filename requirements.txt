@@ -1,0 +1,8 @@
+streamlit
+pandas
+yfinance
+sqlalchemy
+bcrypt
+boto3
+flask
+flask-wtf
